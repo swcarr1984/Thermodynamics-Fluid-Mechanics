@@ -5,7 +5,6 @@ import math
 %matplotlib inline
 
 # Natural Convection
-print('******** Question 1 ******** ')
 # Interpolation
 k = 0.02439+(((2.5)*(0.02476-0.02439))/5)
 v = 1.426e-5+(((2.5)*((1.47e-5)-(1.426e-5)))/5)
