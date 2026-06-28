@@ -34,4 +34,57 @@ complex engineering problems that span multiple domains. It aims to provide:
 ---
 
 ## 📁 Repository Structure
+/notebooks        # Jupyter Lab engineering examples
+/python           # Python solvers and utilities
+/cpp              # High‑performance C++ modules
+/data             # Example datasets
+/docs             # Engineering notes and derivations
+
+
+---
+
+## 🚀 Example Capabilities
+
+### Thermodynamics
+- Ideal gas relations  
+- Compressible flow  
+- Heat exchanger analysis (LMTD, NTU)  
+- Property evaluation  
+
+### Fluid Mechanics
+- Pipe flow and pressure drop  
+- Reynolds number and regime detection  
+- Natural and forced convection  
+- Boundary layer approximations  
+
+### Heat Transfer
+- Transient conduction  
+- Convection correlations  
+- Thermal resistance networks  
+
+### Electrical & Physics
+- Basic circuit solvers  
+- Energy balance models  
+- Multi‑physics coupling  
+
+---
+
+## 🛠 Technologies
+
+- **Python** — rapid prototyping, notebooks, visualisation  
+- **C++** — high‑performance solvers and numerical kernels  
+- **Jupyter Lab** — interactive engineering analysis  
+
+---
+
+## 📈 Future Development
+
+- PDE solvers (finite difference / finite volume)  
+- Multi‑physics coupling modules  
+- Engineering optimisation tools  
+- Web‑based HMI for solver visualisation  
+- C++/Python hybrid computation pipeline  
+
+---
+
 
